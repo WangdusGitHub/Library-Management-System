@@ -1,0 +1,52 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "Things Fall Apart",
+            "author": "Chinua Achebe",
+            "genre": "Historical Fiction",
+            "price": "200",
+            "publisher": "Penguin"
+        },
+        {
+            "id": "2",
+            "title": "Fairy Tales",
+            "author": "Hans Christian Andersen",
+            "genre": "Fairy tales",
+            "price": "150",
+            "publisher": "Unknown"
+        },
+        {
+            "id": "3",
+            "title": "The Divine Comedy",
+            "author": "Dante Alighieri",
+            "genre": "Epic poetry",
+            "price": "300",
+            "publisher": "Vintage"
+        },
+        {
+            "id": "4",
+            "title": "The Epic Of Gilgamesh",
+            "author": "Unknown",
+            "genre": "Classic",
+            "price": "100",
+            "publisher": "Penguin"
+        },
+        {
+            "id": "5",
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "price": "250",
+            "publisher": "Penguin"
+        },
+        {
+            "id": "6",
+            "title": "Le Père Goriot",
+            "author": "Honoré de Balzac",
+            "genre": "Realism",
+            "price": "200",
+            "publisher": "Vintage"
+        }
+    ]
+}
